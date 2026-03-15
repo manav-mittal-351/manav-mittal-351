@@ -131,6 +131,10 @@ I enjoy solving complex problems using core technologies like **Java, Data Struc
 
 ---
 
+<p align="center">
+  <img src="https://github.com/manav-mittal-351/manav-mittal-351/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 <div align="center">
 
   **Always learning, always building.**
