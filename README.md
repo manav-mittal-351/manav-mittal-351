@@ -123,10 +123,9 @@ I enjoy solving complex problems using core technologies like **Java, Data Struc
 
 ---
 
-# Let's Connect
+## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/manav-mittal-137821286/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-mittal-137821286/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavmittal451@gmail.com)
 
 ---
